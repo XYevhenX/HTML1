@@ -1,0 +1,13 @@
+*
+
+!*/
+
+!*.html
+!*.css
+!*.js
+!*.txt
+!*.jpg
+!*.jpeg
+!*.png
+
+!/.gitignore
